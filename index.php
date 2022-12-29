@@ -11,7 +11,7 @@
 	<h2>Група: КІУКІ-20-3</h2>
 	<h3>Варіант: 3</h3>
 	<h4>Взяття таблиці з HTML файлу</h4>
-	<?php
+	<!-- <?php
 		$table1 = file_get_contents('table.html');
 		echo $table1;
 	?>
@@ -37,6 +37,7 @@
 			echo "</tr>";
 		}
 		echo "</table>";
-	?>
+	?> -->
+
 </body>
 </html>
